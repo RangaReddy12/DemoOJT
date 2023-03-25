@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T10:11:23 IST" name="Default suite" finished-at="2023-03-25T10:11:39 IST" duration-ms="16347">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T10:11:23 IST" name="Default test" finished-at="2023-03-25T10:11:39 IST" duration-ms="16347">
+      <class name="mar24.AdvanceReports">
+        <test-method is-config="true" signature="generaeteReport()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:23 IST" name="generaeteReport" finished-at="2023-03-25T10:11:23 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generaeteReport -->
+        <test-method is-config="true" signature="steUp()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:23 IST" name="steUp" finished-at="2023-03-25T10:11:32 IST" duration-ms="9117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steUp -->
+        <test-method signature="testcase1()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:32 IST" name="testcase1" finished-at="2023-03-25T10:11:32 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:32 IST" name="tearDown" finished-at="2023-03-25T10:11:34 IST" duration-ms="1507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="steUp()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:34 IST" name="steUp" finished-at="2023-03-25T10:11:38 IST" duration-ms="4268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steUp -->
+        <test-method signature="testcase2()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:38 IST" name="testcase2" finished-at="2023-03-25T10:11:38 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mar24.AdvanceReports@1349883]" started-at="2023-03-25T10:11:38 IST" name="tearDown" finished-at="2023-03-25T10:11:39 IST" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mar24.AdvanceReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
